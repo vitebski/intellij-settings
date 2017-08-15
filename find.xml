@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.ls</mask>
+      <mask>*.l</mask>
+      <mask>*.kj</mask>
+      <mask>*.k</mask>
+      <mask>*.hb</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.j</mask>
+      <mask>*.h</mask>
+      <mask>*.hbs</mask>
+      <mask>b</mask>
+      <mask>bdb</mask>
+      <mask>bdb-</mask>
+      <mask>bdb-new</mask>
+      <mask>bdb-new-</mask>
+      <mask>bdb-new-e</mask>
+      <mask>bdb-new-ed</mask>
+      <mask>bdb-new-edi</mask>
+      <mask>bdb-new-edit</mask>
+      <mask>bdb-new-edit**</mask>
+      <mask>(bdb-new-edit*</mask>
+      <mask>bdb-new-edit*</mask>
+      <mask>)bdb-new-edit*</mask>
+      <mask>*(bdb-new-edit*</mask>
+      <mask>*bdb-new-edit*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>

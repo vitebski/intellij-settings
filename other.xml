@@ -1,0 +1,43 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node">
+      <version-cache version="6.7.0" last-modified="1475002666000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.7.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/v5.3.0/bin/node">
+      <version-cache version="5.3.0" last-modified="1450291308000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.6.0/bin/node">
+      <version-cache version="4.6.0" last-modified="1475019720000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.7/bin/node">
+      <version-cache version="4.4.7" last-modified="1467147253000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1480433723056" />
+    <node-interpreter path="$USER_HOME$/.nvm/v5.3.0/bin/node" version="5.3.0" last-modified="1450291308000" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+</application>

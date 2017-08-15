@@ -1,0 +1,88 @@
+<application>
+  <component name="libraryTable">
+    <library name="cnm_test_env at virtualenv at ~/.cnm_test_env interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7" />
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1624855460" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7" />
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages" />
+        <root url="jar://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1624855460" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7.11+ virtualenv at ~/Documents/garantia-assembla/garantia-customer-success/python_paramiko_test interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/customer-success/python_paramiko_test/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+    <library name="virtualenv at ~/virtualenvs/cm_dev interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/lib/python2.7" />
+        <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+        <root url="file:///usr/lib/python2.7/lib-tk" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/virtualenvs/cm_dev/lib/python2.7/site-packages" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/cnm/python" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
