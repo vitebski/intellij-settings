@@ -5,13 +5,11 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.l</mask>
       <mask>*.kj</mask>
       <mask>*.k</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>b</mask>
       <mask>bdb</mask>
       <mask>bdb-</mask>
@@ -32,11 +30,13 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
