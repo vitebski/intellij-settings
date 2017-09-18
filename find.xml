@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.l</mask>
       <mask>*.kj</mask>
@@ -29,15 +30,15 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.hb</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hbs</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
