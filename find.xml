@@ -27,15 +27,15 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.hbs</mask>
       <mask>*.hb</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
