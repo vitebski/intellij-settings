@@ -28,14 +28,14 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
