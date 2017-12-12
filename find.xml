@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.hbs" />
     <recentFileMasks>
       <mask>*.kj</mask>
       <mask>*.k</mask>
@@ -23,19 +24,19 @@
       <mask>)bdb-new-edit*</mask>
       <mask>*(bdb-new-edit*</mask>
       <mask>*bdb-new-edit*</mask>
-      <mask>*.h</mask>
-      <mask>*.hb</mask>
-      <mask>*.hbs</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.jj</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
