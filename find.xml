@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.hbs" />
     <recentFileMasks>
-      <mask>*.kj</mask>
-      <mask>*.k</mask>
-      <mask>b</mask>
-      <mask>bdb</mask>
-      <mask>bdb-</mask>
       <mask>bdb-new</mask>
       <mask>bdb-new-</mask>
       <mask>bdb-new-e</mask>
@@ -30,12 +26,17 @@
       <mask>*.jj</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.h</mask>
+      <mask>*.js,*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
