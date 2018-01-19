@@ -23,7 +23,6 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.jj</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -36,6 +35,7 @@
       <mask>*.js,*.</mask>
       <mask>*.js,*.h</mask>
       <mask>*.js,*.hbs</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
