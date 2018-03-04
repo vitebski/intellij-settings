@@ -34,8 +34,8 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.js,</mask>
-      <mask>*.js</mask>
       <mask>*.py</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
