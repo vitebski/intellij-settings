@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>bdb-new-ed</mask>
       <mask>bdb-new-edi</mask>
@@ -16,7 +17,6 @@
       <mask>*(bdb-new-edit*</mask>
       <mask>*bdb-new-edit*</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.jj</mask>
@@ -36,6 +36,7 @@
       <mask>*.js,</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
