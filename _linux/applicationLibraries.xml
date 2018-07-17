@@ -37,15 +37,15 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 2.7 (opmail) interpreter library">
+    <library name="Python 2.7 (opmail-p) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7" />
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/local/lib/python2.7" />
         <root url="file:///usr/local/lib/python2.7/plat-linux2" />
         <root url="file:///usr/local/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-327135398" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1244634730" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -54,13 +54,13 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7" />
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7/lib-dynload" />
         <root url="file:///usr/local/lib/python2.7" />
         <root url="file:///usr/local/lib/python2.7/plat-linux2" />
         <root url="file:///usr/local/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/virtualenvs/opmail/lib/python2.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-327135398" />
+        <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-1244634730" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
