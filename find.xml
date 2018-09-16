@@ -12,7 +12,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.hbs</mask>
     <mask>*.py</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
