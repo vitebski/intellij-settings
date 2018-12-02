@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
