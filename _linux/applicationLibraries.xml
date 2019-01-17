@@ -11,7 +11,6 @@
         <root url="jar://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
         <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages" />
         <root url="jar://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1624855460" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -29,7 +28,6 @@
         <root url="jar://$USER_HOME$/.cnm_test_env/local/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
         <root url="file://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages" />
         <root url="jar://$USER_HOME$/.cnm_test_env/lib/python2.7/site-packages/mockredispy-2.9.3-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2017.1/system/python_stubs/1624855460" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
