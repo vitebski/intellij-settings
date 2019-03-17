@@ -7,6 +7,7 @@
       <mapping pattern="obj-array" type="JavaScript" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
