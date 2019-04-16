@@ -126,6 +126,33 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (venv) - rdbtools interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1356117217" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6" />
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/Documents/rdbtools-web/venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1356117217" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.7 (opmail-p) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python3.7" />
