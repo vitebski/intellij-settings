@@ -9,11 +9,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.hbs</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
