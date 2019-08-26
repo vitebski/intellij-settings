@@ -13,8 +13,8 @@
     <mask>*.py</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.hbs</mask>
     <mask>*.java</mask>
+    <mask>*.hbs</mask>
     <mask>*.js</mask>
   </component>
 </application>
