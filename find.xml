@@ -13,7 +13,7 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
