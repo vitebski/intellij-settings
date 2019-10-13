@@ -12,8 +12,8 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.hbs</mask>
     <mask>*.py</mask>
+    <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
   </component>
