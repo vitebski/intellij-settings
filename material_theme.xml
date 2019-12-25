@@ -4,13 +4,12 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isDecoratedFolders" value="false" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialIcons" value="false" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="16" />
     <option name="accentColor" value="ffd866" />
     <option name="selectedTheme" value="MONOKAI" />
