@@ -16,7 +16,7 @@
     <mask>*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
