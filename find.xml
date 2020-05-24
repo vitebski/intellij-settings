@@ -11,13 +11,13 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
+    <mask>pom.xml</mask>
+    <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
-    <mask>*.js</mask>
   </component>
 </application>
