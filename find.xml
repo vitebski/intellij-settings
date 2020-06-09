@@ -16,8 +16,8 @@
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>pom.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
