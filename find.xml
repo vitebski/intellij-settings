@@ -17,7 +17,7 @@
     <mask>*.hbs</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>pom.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
