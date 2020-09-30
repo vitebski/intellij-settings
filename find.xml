@@ -18,8 +18,8 @@
     <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
+    <mask>*.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
