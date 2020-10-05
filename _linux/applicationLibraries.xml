@@ -40,6 +40,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 2.7 virtualenv at ~/Documents/garantia-assembla/garantia-cluster-git/venv interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Python 3.8 (opmail-p) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Documents/garantia-assembla/opmail-p/venv/lib/python3.8" />
