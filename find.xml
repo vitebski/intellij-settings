@@ -16,10 +16,10 @@
     <mask>pom.xml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.java</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
