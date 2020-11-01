@@ -17,8 +17,8 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
+    <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
   </component>
