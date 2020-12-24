@@ -14,12 +14,12 @@
     <mask>*.jsp</mask>
     <mask>pom.xml</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.hbs</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
