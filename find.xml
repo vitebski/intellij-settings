@@ -16,10 +16,10 @@
     <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>*.yaml</mask>
-    <mask>*.hbs</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.hbs</mask>
     <mask>*.js</mask>
   </component>
 </application>
