@@ -18,9 +18,9 @@
     <mask>*.yaml</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.lua</mask>
+    <mask>*.js</mask>
   </component>
 </application>
