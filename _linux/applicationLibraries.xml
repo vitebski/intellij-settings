@@ -14,7 +14,6 @@
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/venv/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/venv/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/1219799830" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -30,7 +29,6 @@
         <root url="file:///usr/lib/python2.7" />
         <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
         <root url="file:///usr/lib/python2.7/lib-tk" />
-        <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/venv/local/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Documents/garantia-assembla/garantia-cluster-git/venv/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/1219799830" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
