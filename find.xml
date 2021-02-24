@@ -17,9 +17,9 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
-    <mask>*.js</mask>
     <mask>*.hbs</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
