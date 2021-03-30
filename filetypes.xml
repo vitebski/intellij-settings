@@ -1,17 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="LocalDateTimeAsSqlUtcDateArgument.java" type="JAVA" />
       <mapping pattern="obj-array" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="skaffold" type="YAML" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
