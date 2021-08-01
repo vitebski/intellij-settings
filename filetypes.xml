@@ -8,8 +8,8 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="pylintrc" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="skaffold" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
