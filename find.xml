@@ -18,9 +18,9 @@
     <mask>*.sh</mask>
     <mask>*.py</mask>
     <mask>*.hbs</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
