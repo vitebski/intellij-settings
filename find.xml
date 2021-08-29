@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -17,11 +17,11 @@
     <mask>*.lua</mask>
     <mask>*.sql</mask>
     <mask>*.sh</mask>
-    <mask>*.xml</mask>
     <mask>*.hbs</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
