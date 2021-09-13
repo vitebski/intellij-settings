@@ -16,11 +16,11 @@
     <mask>*.lua</mask>
     <mask>*.sql</mask>
     <mask>*.sh</mask>
-    <mask>*.hbs</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
