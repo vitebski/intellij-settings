@@ -14,7 +14,6 @@
     <mask>*.json</mask>
     <mask>*.yaml</mask>
     <mask>*.lua</mask>
-    <mask>*.sql</mask>
     <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -23,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.log</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
