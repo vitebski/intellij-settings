@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -19,9 +20,9 @@
     <mask>*.hbs</mask>
     <mask>*.log</mask>
     <mask>*.sql</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.js</mask>
     <mask>*.sh</mask>
+    <mask>*.py</mask>
   </component>
 </application>
