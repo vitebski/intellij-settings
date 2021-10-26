@@ -1,6 +1,6 @@
 <application>
   <component name="VisualVMLauncher">
     <option name="jdkHome" value="" />
-    <option name="visualVmExecutable" value="$USER_HOME$/Downloads/visualvm_139/bin/visualvm" />
+    <option name="visualVmExecutable" value="$USER_HOME$/Downloads/visualvm_204/bin/visualvm" />
   </component>
 </application>
