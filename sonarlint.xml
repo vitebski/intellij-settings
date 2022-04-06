@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v14.17.3/bin/node" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adfcfdf92dfc9dfcbdf9fdfccdfc9dfc9df9cdfccdfcbdf9ddf98df98df9adfc8df9bdf9fdf93dfccdfc8df9ddf9edf9bdfcedf92df98df9edf9adfcfdfc8df93dfccdf9ddf9bdf9fdf9ddf9bdfc9</token>
+          <option name="name" value="redis" />
+          <organizationKey>redislabsdev</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
