@@ -15,6 +15,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="dart.projects.without.pubspec" value="true" />
+    <entry key="maven.import.compiler.arguments" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
