@@ -22,8 +22,8 @@
     <mask>pom.xml</mask>
     <mask>*-k8s.xml</mask>
     <mask>*.yaml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>
