@@ -14,7 +14,6 @@
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.service</mask>
-    <mask>*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*-k8s.xml</mask>
     <mask>*.js</mask>
@@ -25,5 +24,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
