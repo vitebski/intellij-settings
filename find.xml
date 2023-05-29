@@ -20,10 +20,10 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.sh</mask>
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
