@@ -10,12 +10,11 @@
         </entry>
       </map>
     </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df9adfcfdf92dfc9dfcbdf9fdfccdfc9dfc9df9cdfccdfcbdf9ddf98df98df9adfc8df9bdf9fdf93dfccdfc8df9ddf9edf9bdfcedf92df98df9edf9adfcfdfc8df93dfccdf9ddf9bdf9fdf9ddf9bdfc9</token>
+          <token>df9fdf9fdf9cdf98df9adf9ddf9fdf9edf9edf93dfc8df9edf9bdf98df99dfc8df98dfccdf9edfcedfc8df9ddfc9df9bdf92df9ddfc9df98df9cdf93dfc9df92df93df9fdf99dfcfdfc8dfc9df99df9b</token>
           <option name="name" value="redis" />
           <organizationKey>redislabsdev</organizationKey>
         </SonarQubeServer>
