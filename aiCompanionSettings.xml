@@ -1,0 +1,17 @@
+<application>
+  <component name="AiCompanionSettings">
+    <option name="settings">
+      <map>
+        <entry key="cloudcode.duetAI.codeCompletion.defaultThreshold" value="-10" />
+        <entry key="cloudcode.duetAI.codeCompletion.enableThresholds" value="true" />
+        <entry key="cloudcode.duetAI.codeCompletion.maximumTokens" value="64" />
+        <entry key="cloudcode.duetAI.codeCompletion.samples" value="1" />
+        <entry key="cloudcode.duetAI.codeGeneration.samples" value="1" />
+        <entry key="cloudcode.duetAI.project" value="" />
+        <entry key="cloudcode.duetAI.recitation.logFilePath" value="" />
+        <entry key="cloudcode.duetAI.recitation.maxCitedLength" value="-1" />
+        <entry key="cloudcode.duetAI.useRest" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
