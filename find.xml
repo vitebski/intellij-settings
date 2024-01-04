@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="Project 'sm-stats-service'" />
+    <option name="defaultScopeName" value="Project 'sm-stats-service'" />
+    <option name="SEARCH_SCOPE" value="Project 'sm-stats-service'" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.lua</mask>
